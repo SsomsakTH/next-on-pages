@@ -39,8 +39,8 @@
 		"esbuild": "^0.15.3",
 		"js-yaml": "^4.1.0",
 		"pcre-to-regexp": "^1.1.0",
-		"semver": "^7.5.2",
-		"zod": "^3.21.4",
+		"semver": "^7.5.3",
+		"zod": "^3.22.3",
 		"zodcli": "^0.0.4"
 	},
 	"peerDependencies": {
